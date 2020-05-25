@@ -42,7 +42,7 @@
     "less": "3.11.1",
     "less-loader": "5.0.0",
     "postcss-loader": "3.0.0",
-    "prettier": "1.18.2",
+    "prettier": "1.19.1",
     "react-social-icons": "4.1.0",
     "source-map-loader": "0.2.4",
     "style-loader": "1.2.1",
