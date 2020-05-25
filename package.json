@@ -69,7 +69,7 @@
     "filestack-react": "^3.0.1",
     "font-awesome": "^4.7.0",
     "history": "^4.9.0",
-    "jws": "^3.2.2",
+    "jws": "^4.0.0",
     "prop-types": "^15.7.2",
     "react": "16.13.1",
     "react-accessible-accordion": "^3.0.0",
