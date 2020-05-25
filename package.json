@@ -75,7 +75,7 @@
     "react-accessible-accordion": "^3.0.0",
     "react-dom": "16.13.1",
     "react-dropdown": "^1.6.4",
-    "react-dropzone": "^10.1.5",
+    "react-dropzone": "^11.0.0",
     "react-linkify": "^1.0.0-alpha",
     "react-paginate": "^6.3.0",
     "react-reveal": "^1.2.2",
