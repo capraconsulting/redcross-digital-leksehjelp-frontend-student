@@ -87,6 +87,6 @@
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0",
     "stream": "0.0.2",
-    "typesafe-actions": "^4.4.2"
+    "typesafe-actions": "^5.0.0"
   }
 }
